@@ -13,7 +13,7 @@ Landon Thaler
 Create a web app that makes reading recipes extremely easy.
 
 ### View Project:
-https://lmt14b.github.io/lesson7_jquery/
+https://lmt14b.github.io/lesson7_jquery/Lesson7_Assignment/index2.html
 
 ### Lessons Learned in the Assignment:
 1. Traversing the DOM
